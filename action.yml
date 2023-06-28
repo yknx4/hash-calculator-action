@@ -1,4 +1,4 @@
-name: 'Hash Calculator'
+name: 'Hash from string'
 description: Hash Calculator lets you calculate the cryptographic hash value of a string.
 branding:
   icon: hash
